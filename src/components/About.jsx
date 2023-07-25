@@ -11,18 +11,17 @@ const About = () => {
             </p>
           </div>
           <div></div>
+        </div>
+        <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
+          <div className='sm:text-right text-4xl font-bold'>
+            <p>Hi. I'm Kawã, nice to meet you. Please take a look around.</p>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Kawã vidal, nice to meet you. Please take a look around.</p>
-            </div>
-            <div>
-              <p>My name is Mickaias kawã, I'm a student of Information System, and Front-end developer,
-              I'm passionate about programming and I have experience in React, JavaScript, Next, Typescript,
-              Nodejs, TailwindCss, Git, HTML and CSS. I'm a dedicated person and I really like challenges, I love every programming
-              experience, and I love learning more and more about programming, I'm always eager to improve!</p>  
-            </div>
+          <div>
+            <p>I'm a 19 year old college student with a strong interest and passion for technology. I am currently studying the fourth period of Information System, seeking to expand my knowledge and skills in the area of web development.
+              Over time, I developed several personal projects that are available on my GitHub, which demonstrate my experience and evolution in this field. My main focus is working with React, Javascript, Typescript and other web tools, always looking to learn new technologies and apply them in my projects.
+              I am a dedicated person, self-taught and committed to constantly improving my technical and creative skills. In addition, I am enthusiastic about challenges and I love working in a team to find creative and efficient solutions.</p>
           </div>
+        </div>
       </div>
     </div>
   )
